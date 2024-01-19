@@ -1,5 +1,4 @@
 # osc-forkme
 A dummy repository for git contribution introduction
 
-
-foo
+New Line Add by Leonel
